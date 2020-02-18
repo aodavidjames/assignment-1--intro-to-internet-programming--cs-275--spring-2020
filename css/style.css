@@ -6,6 +6,8 @@ header{
   width: auto;
   font-size: 40px;
   font-family: Oxygen, sans-serif;
+  text-align: center;
+  text-transform: capitalize;
 }
 
 h1{
