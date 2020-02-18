@@ -1,5 +1,9 @@
 header{
+  position: relative;
+  background-color: rgba(101, 147, 245, 0.45);
+  padding: 20px 40px;
   text-decoration-color: rgb(76, 81, 109);
+  width: auto;
   font-size: 40px;
   font-family: Oxygen, sans-serif;
 }
