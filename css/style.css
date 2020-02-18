@@ -18,3 +18,8 @@ h1{
 h2{
   font-size: 80px;
 }
+
+p{
+  width: 80%;
+  padding: 20px;
+}
