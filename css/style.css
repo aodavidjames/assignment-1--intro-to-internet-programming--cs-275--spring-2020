@@ -1,5 +1,6 @@
 body{
     text-align: justify;
+    text-indent: 4em;
     font-size: 20px;
     line-height: 1.3;
 }
@@ -30,6 +31,15 @@ p{
   font-family: sans-serif;
 }
 
-sourcing{
-  background-color: green;
+footer{
+  margin-top: 80px;
+}
+
+p.sourcing{
+  margin: 0px 60px;
+  font-size: 16px;
+  text-decoration-color: rgb(76, 81, 109);
+}
+div.names{
+
 }
