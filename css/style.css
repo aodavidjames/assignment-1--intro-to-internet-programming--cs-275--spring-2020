@@ -7,7 +7,7 @@ header{
   font-size: 40px;
   font-family: Oxygen, sans-serif;
   text-align: center;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 
 h1{
