@@ -4,17 +4,17 @@ header{
   padding: 20px 80px;
   text-decoration-color: rgb(76, 81, 109);
   width: auto;
-  font-size: 40px;
+  font-size: 60px;
   font-family: Oxygen, sans-serif;
   text-align: center;
   text-transform: uppercase;
 }
 
 h1{
-  font-size: 60px;
+  font-size: 100px;
   text-decoration-color: black;
 }
 
 h2{
-  font-size: 50px;
+  font-size: 80px;
 }
