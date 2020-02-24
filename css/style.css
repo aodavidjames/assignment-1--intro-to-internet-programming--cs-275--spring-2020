@@ -26,8 +26,8 @@ h2{
 }
 
 p{
-  margin: 20px 40px;
-  padding: 0px;
+  margin-top: 20px;
+  padding: 20px;
   font-family: sans-serif;
 }
 
@@ -38,6 +38,9 @@ footer{
 p.sourcing{
   margin: 0px 60px;
   font-size: 16px;
+}
+
+a{
   text-decoration-color: rgb(76, 81, 109);
 }
 div.names{
