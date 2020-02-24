@@ -43,6 +43,11 @@ p.sourcing{
 a{
   text-decoration-color: rgb(76, 81, 109);
 }
-div.names{
 
+ul, ol{
+  margin: 20px;
+  text-align: center;
+}
+
+.col-sm-6{
 }
