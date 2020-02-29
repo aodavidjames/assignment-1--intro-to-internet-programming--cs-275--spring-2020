@@ -49,5 +49,6 @@ ul, ol{
   text-align: center;
 }
 
-.col-sm-6{
+#col-sm-6, #col-sm-10{
+  margin: 0px 20px;
 }
